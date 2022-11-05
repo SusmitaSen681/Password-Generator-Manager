@@ -1,4 +1,4 @@
-# password_generator_managing_app
+# Password Generator Manager
 
 A new Flutter project.
 
